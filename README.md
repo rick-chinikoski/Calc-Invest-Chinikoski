@@ -1,2 +1,9 @@
-# desafio-DIO
-Planilha para simular investimentos criada para o desafio de projeto Santander - Excel com Inteligência Artificial
+# Planinha de Simulação de Investimentos
+
+Projeto desenvolvido para o primeiro DESAFIO do DIO Santander - Excel com Inteligência Artificial
+
+O desafio tinha como proposta desenvolver uma ferramenta para o usuário simular investimento
+utilizando calculos financeiro demonstrar resultados baseados em aporte mensais e com uma taxa de rendimento
+apontados pelo proprio usuário
+
+Projeto desenvolvido por Luiz henrique Chinikoski, em MAIO de 2025
